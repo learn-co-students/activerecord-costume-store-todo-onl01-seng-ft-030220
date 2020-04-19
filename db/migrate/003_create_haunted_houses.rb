@@ -19,4 +19,3 @@ class CreateHauntedHouses < ActiveRecord::Migration[4.2]
     def down
     end
 end
-# # Create your haunted_houses migration here
